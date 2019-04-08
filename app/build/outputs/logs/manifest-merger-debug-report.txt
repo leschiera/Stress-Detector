@@ -1,0 +1,186 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:2:1-40:12
+MERGED from [polar-ble-sdk.aar] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\polar-ble-sdk.aar\2e6eda92cc6019e38153d2ede0b44c39\AndroidManifest.xml:2:1-18:12
+MERGED from [polar-protobuf-release.aar] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\polar-protobuf-release.aar\7b4833107e324cb1a910b39aaea14f9c\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\7dc7ac828cb35aa299b37dc998e2a04e\AndroidManifest.xml:17:1-22:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\74b38276b17c788c4eab54cc981d9711\AndroidManifest.xml:15:1-21:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\6157aaa2340f04ddc89e91a840304dc8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\10a79fbe7467f71745c0e5cc3c2d6172\AndroidManifest.xml:2:1-11:12
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-1.13.1.aar\c5e021801b901ad27221e5a32917d815\AndroidManifest.xml:2:1-11:12
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.12.7] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-mobile-client-2.12.7.aar\9ce54c382ad9d63a6c08e569e656e820\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\9a9790e1747a24c43d0cc2138c288419\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\5ded0fbebf2192a74764892576f084cd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\dbdcfeda4712b0579ad34ddb40cd7a76\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\72446fd6e4af93d5cd9df00848572edf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\a007aa6957247f87f8d18ad8203f7a93\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\eebc322dbd5ccec1565d84ac29a22a03\AndroidManifest.xml:17:1-22:12
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.12.7] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-core-2.12.7.aar\417c0d172457b6410fccc5d50d2668f3\AndroidManifest.xml:2:1-4:80
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\5417d416bdbfc1c35f0a4b0a37fc07ee\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f74ca4343fe26070e558a65cff3ec0d5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\78d3fea04c41e5c5f83ddc293fc815cd\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\11fe098b151f464c6bcff52bab3969c6\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:5:5-68
+MERGED from [polar-ble-sdk.aar] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\polar-ble-sdk.aar\2e6eda92cc6019e38153d2ede0b44c39\AndroidManifest.xml:11:5-68
+MERGED from [polar-ble-sdk.aar] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\polar-ble-sdk.aar\2e6eda92cc6019e38153d2ede0b44c39\AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:5:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:6:5-74
+MERGED from [polar-ble-sdk.aar] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\polar-ble-sdk.aar\2e6eda92cc6019e38153d2ede0b44c39\AndroidManifest.xml:13:5-74
+MERGED from [polar-ble-sdk.aar] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\polar-ble-sdk.aar\2e6eda92cc6019e38153d2ede0b44c39\AndroidManifest.xml:13:5-74
+	android:name
+		ADDED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:6:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:7:5-81
+MERGED from [polar-ble-sdk.aar] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\polar-ble-sdk.aar\2e6eda92cc6019e38153d2ede0b44c39\AndroidManifest.xml:15:5-81
+MERGED from [polar-ble-sdk.aar] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\polar-ble-sdk.aar\2e6eda92cc6019e38153d2ede0b44c39\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:8:5-67
+MERGED from [polar-ble-sdk.aar] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\polar-ble-sdk.aar\2e6eda92cc6019e38153d2ede0b44c39\AndroidManifest.xml:12:5-67
+MERGED from [polar-ble-sdk.aar] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\polar-ble-sdk.aar\2e6eda92cc6019e38153d2ede0b44c39\AndroidManifest.xml:12:5-67
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.12.7] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-mobile-client-2.12.7.aar\9ce54c382ad9d63a6c08e569e656e820\AndroidManifest.xml:6:5-66
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.12.7] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-mobile-client-2.12.7.aar\9ce54c382ad9d63a6c08e569e656e820\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:8:22-64
+application
+ADDED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:10:5-38:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\10a79fbe7467f71745c0e5cc3c2d6172\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\10a79fbe7467f71745c0e5cc3c2d6172\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-1.13.1.aar\c5e021801b901ad27221e5a32917d815\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-1.13.1.aar\c5e021801b901ad27221e5a32917d815\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:16:9-40
+activity#polar.com.androidblesdk.LogIn
+ADDED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:17:9-25:20
+	android:screenOrientation
+		ADDED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:19:13-49
+	android:configChanges
+		ADDED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:18:13-48
+	android:name
+		ADDED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:17:19-40
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:23:27-74
+activity#polar.com.androidblesdk.Main
+ADDED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:26:9-31:20
+	android:parentActivityName
+		ADDED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:27:13-48
+	android:name
+		ADDED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:26:19-39
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:28:13-30:65
+	android:value
+		ADDED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:30:17-62
+	android:name
+		ADDED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:29:17-63
+activity#polar.com.androidblesdk.Manager
+ADDED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:32:9-37:20
+	android:parentActivityName
+		ADDED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:33:13-48
+	android:name
+		ADDED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml:32:19-42
+uses-sdk
+INJECTED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml
+MERGED from [polar-ble-sdk.aar] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\polar-ble-sdk.aar\2e6eda92cc6019e38153d2ede0b44c39\AndroidManifest.xml:7:5-9:41
+MERGED from [polar-ble-sdk.aar] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\polar-ble-sdk.aar\2e6eda92cc6019e38153d2ede0b44c39\AndroidManifest.xml:7:5-9:41
+MERGED from [polar-protobuf-release.aar] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\polar-protobuf-release.aar\7b4833107e324cb1a910b39aaea14f9c\AndroidManifest.xml:7:5-9:41
+MERGED from [polar-protobuf-release.aar] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\polar-protobuf-release.aar\7b4833107e324cb1a910b39aaea14f9c\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\7dc7ac828cb35aa299b37dc998e2a04e\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\7dc7ac828cb35aa299b37dc998e2a04e\AndroidManifest.xml:20:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\74b38276b17c788c4eab54cc981d9711\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\74b38276b17c788c4eab54cc981d9711\AndroidManifest.xml:19:5-43
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\6157aaa2340f04ddc89e91a840304dc8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\6157aaa2340f04ddc89e91a840304dc8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\10a79fbe7467f71745c0e5cc3c2d6172\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\10a79fbe7467f71745c0e5cc3c2d6172\AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-1.13.1.aar\c5e021801b901ad27221e5a32917d815\AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-1.13.1.aar\c5e021801b901ad27221e5a32917d815\AndroidManifest.xml:5:5-7:41
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.12.7] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-mobile-client-2.12.7.aar\9ce54c382ad9d63a6c08e569e656e820\AndroidManifest.xml:4:5-73
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.12.7] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-mobile-client-2.12.7.aar\9ce54c382ad9d63a6c08e569e656e820\AndroidManifest.xml:4:5-73
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\9a9790e1747a24c43d0cc2138c288419\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\9a9790e1747a24c43d0cc2138c288419\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\5ded0fbebf2192a74764892576f084cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\5ded0fbebf2192a74764892576f084cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\dbdcfeda4712b0579ad34ddb40cd7a76\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\dbdcfeda4712b0579ad34ddb40cd7a76\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\72446fd6e4af93d5cd9df00848572edf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\72446fd6e4af93d5cd9df00848572edf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\a007aa6957247f87f8d18ad8203f7a93\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\a007aa6957247f87f8d18ad8203f7a93\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\eebc322dbd5ccec1565d84ac29a22a03\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\eebc322dbd5ccec1565d84ac29a22a03\AndroidManifest.xml:20:5-44
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.12.7] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-core-2.12.7.aar\417c0d172457b6410fccc5d50d2668f3\AndroidManifest.xml:4:1-69
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.12.7] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-core-2.12.7.aar\417c0d172457b6410fccc5d50d2668f3\AndroidManifest.xml:4:1-69
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\5417d416bdbfc1c35f0a4b0a37fc07ee\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\5417d416bdbfc1c35f0a4b0a37fc07ee\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f74ca4343fe26070e558a65cff3ec0d5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f74ca4343fe26070e558a65cff3ec0d5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\78d3fea04c41e5c5f83ddc293fc815cd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\78d3fea04c41e5c5f83ddc293fc815cd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\11fe098b151f464c6bcff52bab3969c6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\11fe098b151f464c6bcff52bab3969c6\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lorenzo\Desktop\androidBleSdkTestApp\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH_PRIVILEGED
+ADDED from [polar-ble-sdk.aar] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\polar-ble-sdk.aar\2e6eda92cc6019e38153d2ede0b44c39\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from [polar-ble-sdk.aar] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\polar-ble-sdk.aar\2e6eda92cc6019e38153d2ede0b44c39\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [polar-ble-sdk.aar] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\polar-ble-sdk.aar\2e6eda92cc6019e38153d2ede0b44c39\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from [polar-ble-sdk.aar] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\polar-ble-sdk.aar\2e6eda92cc6019e38153d2ede0b44c39\AndroidManifest.xml:16:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.amazonaws:aws-android-sdk-mobile-client:2.12.7] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-mobile-client-2.12.7.aar\9ce54c382ad9d63a6c08e569e656e820\AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from [com.amazonaws:aws-android-sdk-mobile-client:2.12.7] C:\Users\Lorenzo\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-mobile-client-2.12.7.aar\9ce54c382ad9d63a6c08e569e656e820\AndroidManifest.xml:7:22-76
