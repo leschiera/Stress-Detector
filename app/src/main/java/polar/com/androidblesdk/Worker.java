@@ -222,11 +222,11 @@ public class Worker extends AppCompatActivity {
                 Log.d(TAG, "HR value: " + data.hr + " rrAvailable: " + data.rrAvailable + " rrsMs: " + data.rrsMs + " rr: " + data.rrs + " contact: " + data.contactStatus + "," + data.contactStatusSupported);
 
 
-                String prediction = doInference(0,data.hr);
+                float prediction = doInference(0,data.hr);
 
 
 
-                if(data.hr > 100 ||  stress) {
+                if(prediction >0.5 || stress) {
                     stress = false;
                     new Thread(new Runnable() {
                         @Override
@@ -379,17 +379,17 @@ public class Worker extends AppCompatActivity {
         return fileChannel.map(FileChannel.MapMode.READ_ONLY, startOffset,declaredLength);
     }
 
-    private String doInference(float input, float hr){
-        float[] inputVal = new float[1];
-        inputVal[0] = hr;
+    private float doInference(float input, float hr){
+        float[][] inputVal = new float[1][1];
+        inputVal[0][0] = hr;
 
         int i = tflite.getInputTensorCount();
         int j = tflite.getOutputTensorCount();
-        String[] outputVal = new String[1];
+        float[] outputVal = new float[1];
 
         tflite.run(inputVal,outputVal);
 
-        String inferredValue = outputVal[0];
+        float inferredValue = outputVal[0];
         return inferredValue;
     }
 

@@ -34,10 +34,14 @@ public class Manager extends AppCompatActivity {
                     @Override
                     public void run() {
                         while(AWSIotMqttClientStatusCallback.AWSIotMqttClientStatus.Connected != awsIoT.statusConnection){
-                            for(int  i = 0; i< subscriber.length; i++) {
-                                awsIoT.subscribe(subscriber[i]);
+                            try {
+                                wait(100);
+                            } catch (InterruptedException e) {
+                                e.printStackTrace();
                             }
-
+                        }
+                        for(int  i = 0; i< subscriber.length; i++) {
+                            awsIoT.subscribe(subscriber[i]);
                         }
                     }
                 }).start();
