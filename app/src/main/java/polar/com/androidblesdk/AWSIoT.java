@@ -102,9 +102,7 @@ public class AWSIoT extends AppCompatActivity {
     }
 
     public void subscribe(final String topic) {
-
         Log.d(LOG_TAG, "topic = " + topic);
-
         try {
             mqttManager.subscribeToTopic(topic, AWSIotMqttQos.QOS0,
                     new AWSIotMqttNewMessageCallback() {
@@ -129,7 +127,6 @@ public class AWSIoT extends AppCompatActivity {
 
                                         // notificationId is a unique int for each notification that you must define
                                         notificationManager.notify(1, builder.build());
-                                        //tvLastMessage.setText(message);
                                     } catch (UnsupportedEncodingException e) {
                                         Log.e(LOG_TAG, "Message encoding error.", e);
                                     }

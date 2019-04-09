@@ -221,10 +221,7 @@ public class Worker extends AppCompatActivity {
                 Log.d(TAG, user);
                 Log.d(TAG, "HR value: " + data.hr + " rrAvailable: " + data.rrAvailable + " rrsMs: " + data.rrsMs + " rr: " + data.rrs + " contact: " + data.contactStatus + "," + data.contactStatusSupported);
 
-
                 float prediction = doInference(0,data.hr);
-
-
 
                 if(prediction >0.5 || stress) {
                     stress = false;
