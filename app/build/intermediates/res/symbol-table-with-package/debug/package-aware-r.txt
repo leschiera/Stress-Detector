@@ -631,7 +631,6 @@ id FUNCTION
 id META
 id SHIFT
 id SYM
-id acc_button
 id action_bar
 id action_bar_activity_content
 id action_bar_container
@@ -656,12 +655,10 @@ id alertTitle
 id all
 id always
 id async
-id auto_connect_button
 id basic
 id beginning
 id blocking
 id bottom
-id broadcast_button
 id btnConnect
 id btnConnection
 id btnDisconnect
@@ -678,15 +675,12 @@ id chronometer
 id clip_horizontal
 id clip_vertical
 id collapseActionView
-id connect_button
 id contentPanel
 id custom
 id customPanel
 id decor_content_parent
 id default_activity_button
 id disableHome
-id disconnect_button
-id ecg_button
 id edit_query
 id end
 id expand_activities_button
@@ -695,7 +689,6 @@ id fill
 id fill_horizontal
 id fill_vertical
 id forever
-id h10_recording_status
 id home
 id homeAsUp
 id icon
@@ -703,6 +696,7 @@ id icon_group
 id ifRoom
 id image
 id imageView
+id imgView
 id info
 id italic
 id large
@@ -712,7 +706,6 @@ id left
 id line1
 id line3
 id listMode
-id list_exercises
 id list_item
 id message
 id middle
@@ -723,20 +716,15 @@ id normal
 id notification_background
 id notification_main_column
 id notification_main_column_container
-id ohr_ppg_button
-id ohr_ppi_button
 id packed
 id parent
 id parentPanel
 id progress_circular
 id progress_horizontal
 id radio
-id read_exercise
-id remove_exercise
 id right
 id right_icon
 id right_side
-id scan_button
 id screen
 id scrollIndicatorDown
 id scrollIndicatorUp
@@ -752,7 +740,6 @@ id search_plate
 id search_src_text
 id search_voice_btn
 id select_dialog_listview
-id set_time
 id shortcut
 id showCustom
 id showHome
@@ -766,8 +753,6 @@ id src_atop
 id src_in
 id src_over
 id start
-id start_h10_recording
-id stop_h10_recording
 id submenuarrow
 id submit_area
 id tabMode
@@ -792,6 +777,7 @@ id txtSubcribe
 id txtTopic
 id txtUser
 id txtWelcomeUser
+id txtWorker
 id uniform
 id up
 id useLogo
@@ -830,9 +816,8 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
-layout activity_main
 layout login
-layout main
+layout manager
 layout notification_action
 layout notification_action_tombstone
 layout notification_template_custom_big
@@ -844,6 +829,7 @@ layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
+layout worker
 mipmap ic_launcher
 mipmap ic_launcher_round
 raw awsconfiguration

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_aars__:C.\Users\Lorenzo\Documents\GitHub\Stress-Detector\app\libs\polar-ble-sdk.aar:unspecified@jar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/polar-ble-sdk.aar/35ca8cf974d1862eca5204adbb07ab60/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/polar-ble-sdk.aar/35ca8cf974d1862eca5204adbb07ab60/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/polar-ble-sdk.aar/35ca8cf974d1862eca5204adbb07ab60/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

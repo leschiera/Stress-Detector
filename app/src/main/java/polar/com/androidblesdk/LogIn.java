@@ -33,13 +33,16 @@ public class LogIn extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 if(users.contains(user.getText().toString())  ) {
-                    Intent intent = new Intent(LogIn.this, Main.class);
+                    Intent intent = new Intent(LogIn.this, Worker.class);
                     Bundle arguments = new Bundle();
                     arguments.putString("user", user.getText().toString());
                     intent.putExtras(arguments);
                     startActivity(intent);
                 }else{
                     Intent intent = new Intent(LogIn.this, Manager.class);
+                    Bundle arguments = new Bundle();
+                    arguments.putString("user", user.getText().toString());
+                    intent.putExtras(arguments);
                     startActivity(intent);
                 }
             }

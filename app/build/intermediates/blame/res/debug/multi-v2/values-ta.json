@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Lorenzo\\Desktop\\androidBleSdkTestApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ta\\values-ta.xml",
+            "outputFile": "C:\\Users\\Lorenzo\\Documents\\GitHub\\Stress-Detector\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ta\\values-ta.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Lorenzo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\eebc322dbd5ccec1565d84ac29a22a03\\res\\values-ta\\values-ta.xml",

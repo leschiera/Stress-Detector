@@ -37,7 +37,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="polar.com.androidblesdk.Main"
+            android:name="polar.com.androidblesdk.Worker"
             android:parentActivityName="polar.com.androidblesdk.LogIn" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
@@ -50,11 +50,6 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="polar.com.androidblesdk.LogIn" />
         </activity>
-
-        <provider
-            android:name="com.android.tools.ir.server.InstantRunContentProvider"
-            android:authorities="polar.com.androidblesdk.com.android.tools.ir.server.InstantRunContentProvider"
-            android:multiprocess="true" />
     </application>
 
 </manifest>
