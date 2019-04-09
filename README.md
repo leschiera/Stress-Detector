@@ -1,5 +1,9 @@
 # Stress-Detector
-This is a proof of concept the use of the AWS IoT APIs to securely publish-to and subscribe-from MQTT topics. It uses Cognito federated identities in conjunction with AWS IoT to create a client certificate and private key and store it in a local Java keystore. This identity is then used to authenticate to AWS IoT. 
+An IoT solution that reduces the risk of industrial accidents and health hazards, reduces costs and improves productivity.
+
+The basic idea is to use a sensor to detect heartbeat and analyze data received through cloud computing, to promptly report heartbeats or abnormalities.
+
+This proof of concept use the AWS IoT APIs to securely publish-to and subscribe-from MQTT topics. It uses Cognito federated identities in conjunction with AWS IoT to create a client certificate and private key and store it in a local Java keystore. This identity is then used to authenticate to AWS IoT. 
 
 ## Requirements
 - Polar Heart Rate OH1 Sensor
