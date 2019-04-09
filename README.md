@@ -81,26 +81,32 @@ Note: To keep things simple, This policy allows access to all the topics under y
 Open the project.
 
 Open AWSIoT.java and update the following constants:
-
+```
 MY_REGION = Regions.US_EAST_1;
+```
 This would be the name of the IoT region that you noted down previously.
 
+```
 CUSTOMER_SPECIFIC_ENDPOINT = "<CHANGE_ME>";
+```
 The customer specific endpoint can be found on the IoT console settings page. Navigate to the AWS IoT Console and press the Settings button.
 
-AWS_IOT_POLICY_NAME = "CHANGE_ME";
+```AWS_IOT_POLICY_NAME = "CHANGE_ME";```
 This would be the name of the AWS IoT policy that you created previously.
 
+```
 KEYSTORE_NAME = "iot_keystore";
 KEYSTORE_PASSWORD = "password";
 CERTIFICATE_ID = "default";
+```
 For these parameters, the default values will work for the sample application. The keystore name is the name used when writing the keystore file to the application's file directory. The password is the password given to protect the keystore when written. Certificate ID is the alias in the keystore for the certificate and private key entry.
 
 Note: If you end up creating a keystore off of the device you will need to update this to match the alias given when importing the certificate into the keystore.
 
 Open res/raw/awsconfiguration.json and update the values for PoolId with the ID of the Cognito Identity Pool created above and Region with the region of the Cognito Identity Pool created above (for example us-east-1):
-
+```
 "PoolId": "REPLACE_ME",
 "Region": "REPLACE_ME"
+```
 Build and run the sample app.
 
