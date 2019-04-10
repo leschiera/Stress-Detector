@@ -1,3 +1,10 @@
+# Who we are
+[Lorenzo Leschiera](https://www.linkedin.com/in/lorenzo-leschiera-55a706156/)
+[Matte Rizza](https://www.linkedin.com/in/matteo-rizza/)
+[Shend Osmanaj](https://www.linkedin.com/in/shendosmanaj/)
+[Link](https://www.hackster.io/149963/monitoring-workers-stress-levels-87f46a) for Hackster
+[Link](https://www.slideshare.net/LorenzoLeschiera/monitoring-workersstress-levels) for SlideShare
+
 # Stress-Detector
 An IoT solution that reduces the risk of industrial accidents and health hazards, reduces costs and improves productivity.
 
